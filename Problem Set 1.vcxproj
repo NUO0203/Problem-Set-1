@@ -133,7 +133,7 @@
     <ClCompile Include="Variant1.cpp" />
     <ClCompile Include="Variant2.cpp" />
     <ClCompile Include="Variant3.cpp" />
-    <ClCompile Include="x64\Variant4.cpp" />
+    <ClCompile Include="Variant4.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
