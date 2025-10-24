@@ -20,13 +20,16 @@
     </None>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Variant3.cpp">
+    <ClCompile Include="x64\Variant4.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="Variant1.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="Variant2.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Variant3.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
